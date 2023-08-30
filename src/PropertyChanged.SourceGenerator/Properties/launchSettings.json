@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Debug": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\PropertyChanged.SourceGenerator.App\\PropertyChanged.SourceGenerator.App.csproj"
+    }
+  }
+}
